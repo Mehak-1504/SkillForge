@@ -1,0 +1,26 @@
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upload-form {
+  margin-bottom: 20px;
+}
+
+.upload-form input {
+  margin-right: 10px;
+}
+
+.message {
+  color: green;
+  font-weight: bold;
+}
+
+.result {
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}

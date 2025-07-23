@@ -1,0 +1,23 @@
+module.exports = {
+  "HTML": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+  "CSS": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+  "JavaScript": "https://javascript.info",
+  "React": "https://reactjs.org/learn",
+  "Git": "https://www.codecademy.com/learn/learn-git",
+  "API Integration": "https://www.postman.com/api-platform",
+  "Node.js": "https://nodejs.dev/learn",
+  "Express": "https://expressjs.com/en/starter/installing.html",
+  "MongoDB": "https://www.mongodb.com/basics",
+  "REST APIs": "https://restfulapi.net/",
+  "Authentication": "https://www.digitalocean.com/community/tutorial_series/authentication",
+  "Python": "https://www.w3schools.com/python/",
+  "Pandas": "https://pandas.pydata.org/docs/",
+  "Excel": "https://www.excel-easy.com/",
+  "SQL": "https://sqlzoo.net/",
+  "Data Visualization": "https://www.tableau.com/learn/training",
+  "Statistics": "https://www.khanacademy.org/math/statistics-probability",
+  "TensorFlow": "https://www.tensorflow.org/tutorials",
+  "scikit-learn": "https://scikit-learn.org/stable/user_guide.html",
+  "Numpy": "https://numpy.org/learn/",
+  "Model Evaluation": "https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/"
+};

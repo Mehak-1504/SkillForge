@@ -1,0 +1,15 @@
+# Node modules (both frontend & backend)
+node_modules/
+
+# Environment variables (never upload secrets)
+.env
+
+# Resume uploads folder
+server/uploads/
+
+# Log files
+*.log
+
+# IDE/editor configs (optional but good)
+.vscode/
+.DS_Store
